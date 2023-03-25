@@ -1,0 +1,15 @@
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.csproj.AssemblyReference.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.AssemblyInfoInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.AssemblyInfo.cs
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\bin\Debug\net6.0\data_type_basic.exe
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\bin\Debug\net6.0\data_type_basic.deps.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\bin\Debug\net6.0\data_type_basic.runtimeconfig.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\bin\Debug\net6.0\data_type_basic.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\bin\Debug\net6.0\data_type_basic.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\refint\data_type_basic.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\data_type_basic.genruntimeconfig.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\data_type_basic\data_type_basic\obj\Debug\net6.0\ref\data_type_basic.dll
