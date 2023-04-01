@@ -1,0 +1,15 @@
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\bin\Debug\net6.0\tuan3_.exe
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\bin\Debug\net6.0\tuan3_.deps.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\bin\Debug\net6.0\tuan3_.runtimeconfig.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\bin\Debug\net6.0\tuan3_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\bin\Debug\net6.0\tuan3_.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.csproj.AssemblyReference.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.AssemblyInfoInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.AssemblyInfo.cs
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\refint\tuan3_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\tuan3_.genruntimeconfig.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan3_\tuan3_\obj\Debug\net6.0\ref\tuan3_.dll

@@ -1,0 +1,15 @@
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.csproj.AssemblyReference.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.AssemblyInfoInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.AssemblyInfo.cs
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\bin\Debug\net6.0\tuan4_.exe
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\bin\Debug\net6.0\tuan4_.deps.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\bin\Debug\net6.0\tuan4_.runtimeconfig.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\bin\Debug\net6.0\tuan4_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\bin\Debug\net6.0\tuan4_.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\refint\tuan4_.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\tuan4_.genruntimeconfig.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\tuan4_\tuan4_\obj\Debug\net6.0\ref\tuan4_.dll
