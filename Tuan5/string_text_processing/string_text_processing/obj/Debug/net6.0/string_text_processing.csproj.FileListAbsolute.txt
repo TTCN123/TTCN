@@ -1,0 +1,15 @@
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\bin\Debug\net6.0\string_text_processing.exe
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\bin\Debug\net6.0\string_text_processing.deps.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\bin\Debug\net6.0\string_text_processing.runtimeconfig.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\bin\Debug\net6.0\string_text_processing.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\bin\Debug\net6.0\string_text_processing.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.csproj.AssemblyReference.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.AssemblyInfoInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.AssemblyInfo.cs
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\refint\string_text_processing.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\string_text_processing.genruntimeconfig.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\string_text_processing\string_text_processing\obj\Debug\net6.0\ref\string_text_processing.dll

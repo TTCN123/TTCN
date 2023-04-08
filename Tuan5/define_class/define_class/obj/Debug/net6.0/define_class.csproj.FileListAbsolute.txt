@@ -1,0 +1,15 @@
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\bin\Debug\net6.0\define_class.exe
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\bin\Debug\net6.0\define_class.deps.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\bin\Debug\net6.0\define_class.runtimeconfig.json
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\bin\Debug\net6.0\define_class.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\bin\Debug\net6.0\define_class.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.csproj.AssemblyReference.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.AssemblyInfoInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.AssemblyInfo.cs
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\refint\define_class.dll
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.pdb
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\define_class.genruntimeconfig.cache
+C:\Users\PhuongTT\Documents\GitHub\TTCN\Tuan5\define_class\define_class\obj\Debug\net6.0\ref\define_class.dll
