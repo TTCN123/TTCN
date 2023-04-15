@@ -1,0 +1,16 @@
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.exe
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.deps.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.runtimeconfig.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.runtimeconfig.dev.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\bin\Debug\net5.0\text file.pdb
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.csproj.AssemblyReference.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.AssemblyInfoInputs.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.AssemblyInfo.cs
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.csproj.CoreCompileInputs.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\refint\text file.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.pdb
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\text file.genruntimeconfig.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\text file\text file\obj\Debug\net5.0\ref\text file.dll

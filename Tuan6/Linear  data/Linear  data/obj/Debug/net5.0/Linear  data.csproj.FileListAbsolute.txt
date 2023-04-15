@@ -1,0 +1,16 @@
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.exe
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.deps.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.runtimeconfig.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.runtimeconfig.dev.json
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\bin\Debug\net5.0\Linear  data.pdb
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.csproj.AssemblyReference.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.AssemblyInfoInputs.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.AssemblyInfo.cs
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.csproj.CoreCompileInputs.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\refint\Linear  data.dll
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.pdb
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\Linear  data.genruntimeconfig.cache
+D:\HOCTAP\ki6\thuc tap chuyen nganh\Linear  data\Linear  data\obj\Debug\net5.0\ref\Linear  data.dll
