@@ -11,6 +11,22 @@ values(N'Trương',N'Văn',N'Thành',1,'12-09-2000',N'Thái Bình','thanh@gmail.
 (N'Trần',N'Văn',N'Hoàng',1,'23-01-2002',N'Thái Nguyên','hoang@gmail.com','01122334455');
 
 
+
+
+insert tblSinhVien(MaSV,Ho,TenDem,Ten,NgaySinh,DiaChi,GioiTinh,DienThoai,Email)
+	values
+	(
+	'SV' + cast(next value for sinhviensq as nvarchar(30)),
+	N'Hoàng',
+	N'Minh',
+	N'Giang',
+	'12-01-1995',
+	N'Thái Nguyên',
+	'0',
+	'01122334455',
+	'giang@gmail.com'
+	)
+	select * from tblSinhVien
 select * from tblMonHoc
 insert into tblMonHoc(TenMH,SoTC) values 
 (N'Nhập môn công nghệ phần mềm',3),
@@ -22,4 +38,7 @@ insert into tblMonHoc(TenMH,SoTC) values
 (N'Pháp luật đại cương',2);
 
 
-select * from tblSinhVien
+
+
+
+
