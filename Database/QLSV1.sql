@@ -1,4 +1,6 @@
-﻿select * from tblGiaoVen
+﻿use QLSV
+
+select * from tblGiaoVen
 
 insert into  tblGiaoVen(Ho,TenDem,Ten,GioiTinh,NgaySinh,DiaChi,Email,DienThoai)
 values(N'Trương',N'Văn',N'Thành',1,'12-09-2000',N'Thái Bình','thanh@gmail.com','01122334455'),
@@ -26,7 +28,7 @@ insert tblSinhVien(MaSV,Ho,TenDem,Ten,NgaySinh,DiaChi,GioiTinh,DienThoai,Email)
 	'01122334455',
 	'giang@gmail.com'
 	)
-	select * from tblSinhVien
+
 select * from tblMonHoc
 insert into tblMonHoc(TenMH,SoTC) values 
 (N'Nhập môn công nghệ phần mềm',3),
@@ -38,6 +40,30 @@ insert into tblMonHoc(TenMH,SoTC) values
 (N'Pháp luật đại cương',2);
 
 
+	select * from tblSinhVien
+
+CREATE PROCEDURE SelectAllSinhVien 
+as 
+	select 
+	MaSV,
+	case 
+		when len(TenDem) >0 then
+			concat(Ho,' ', TenDem,' ',Ten)
+		else concat(Ho,' ',Ten)
+	end as HoTen,
+	convert(varchar(10), NgaySinh,101) as NgaySinh,
+	case 
+		when GioiTinh = 1 then 'Nam'
+		else N'Nữ'
+	end as GioiTinh,
+	DiaChi,
+	DienThoai,
+	Email
+from tblSinhVien
+go;
+
+exec SelectAllSinhVien
+drop PROCEDURE SelectAllSinhVien 
 
 
 

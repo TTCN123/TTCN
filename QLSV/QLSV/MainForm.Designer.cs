@@ -1,6 +1,6 @@
-﻿namespace WinForm1
+﻿namespace QLSV
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,19 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            dgvdata = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dgvdata).BeginInit();
             SuspendLayout();
             // 
-            // Form1
+            // dgvdata
+            // 
+            dgvdata.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvdata.Location = new Point(-5, 148);
+            dgvdata.Name = "dgvdata";
+            dgvdata.RowTemplate.Height = 25;
+            dgvdata.Size = new Size(866, 363);
+            dgvdata.TabIndex = 0;
+            // 
+            // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Name = "Form1";
-            Text = "Form1";
-            Load += Form1_Load;
+            ClientSize = new Size(855, 510);
+            Controls.Add(dgvdata);
+            Name = "MainForm";
+            Text = "MainForm";
+            Load += MainForm_Load;
+            ((System.ComponentModel.ISupportInitialize)dgvdata).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView dgvdata;
     }
 }
