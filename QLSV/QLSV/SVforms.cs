@@ -28,12 +28,12 @@ namespace QLSV
 
         private void SVforms_Load(object sender, EventArgs e)
         {
-            dgvSV.DataSource = new Database().SelectData("exec SelectAllSinhVien", null);
+            dgvSV.DataSource = new Database().SelectData("exec SelectAllSinhVien");
         }
 
         private void btn_them_Click(object sender, EventArgs e)
         {
-            
+            new them_sua_SVForms(null).ShowDialog();
         }
     }
 }

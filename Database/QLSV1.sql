@@ -66,5 +66,90 @@ exec SelectAllSinhVien
 drop PROCEDURE SelectAllSinhVien 
 
 
+create procedure themMoiSV
+	@Ho nvarchar(50),
+	@TenDem nvarchar(50),
+	@Ten nvarchar(50),
+	@NgaySinh date,
+	@DiaChi nvarchar(150),
+	@GioiTinh tinyint,
+	@DienThoai varchar(50),
+	@Email varchar(50)
+as
+begin
+		insert into tblSinhVien
+		(
+			MaSV,
+			Ho,TenDem,Ten,
+			NgaySinh,
+			DiaChi,
+			GioiTinh,
+			DienThoai,
+			Email
+		)values
+		(
+			'19SV' + cast(next value for sinhviensq as nvarchar(30)),
+			@Ho,
+			@TenDem,
+			@Ten ,
+			@NgaySinh ,
+			@DiaChi,
+			@GioiTinh ,
+			@DienThoai ,
+			@Email 
+		);
+		if @@ROWCOUNT > 0 begin return 1 end
+		else begin return 0 end;
+end
+exec themMoiSV N'Hoàng','Minh',N'Huệ','2002-02-03',N'Hà Nội', 0, '001122334455','hue@gmal.com'
+select * from tblSinhVien
 
 
+create procedure updateSV  
+	@MaSV varchar(30),
+	@Ho nvarchar(50),
+	@TenDem nvarchar(50),
+	@Ten nvarchar(50),
+	@NgaySinh date,
+	@DiaChi nvarchar(150),
+	@GioiTinh tinyint,
+	@DienThoai varchar(50),
+	@Email varchar(50)
+as
+begin
+	update tblSinhVien
+	set
+		 
+		Ho = @Ho,
+		TenDem = @TenDem,
+		Ten = @Ten,
+		NgaySinh = @NgaySinh,
+		DiaChi = @DiaChi,
+		GioiTinh =@GioiTinh,
+		DienThoai = @DienThoai,
+		Email = @Email
+		where MaSV = @MaSV
+		if @@ROWCOUNT > 0 begin return 1 end
+		else begin return 0 end;
+end
+
+select * from tblSinhVien
+
+exec updateSV 'SV1021', 'Hoang', 'Minh', 'Giang', '2002-05-17','Quang Ninh', 0, '0011224433','giang1@gmail.com'
+
+create procedure selectSV
+	@MaSV varchar(30)
+as
+begin
+	select Ho,TenDem, Ten,convert(varchar(10), NgaySinh,101) as NgaySinh,
+	case 
+		when GioiTinh = 1 then 'Nam'
+		else N'Nữ'
+	end as GioiTinh,
+	DiaChi,
+	DienThoai,
+	Email from tblSinhVien
+	where MaSV = @MaSV;
+end
+
+exec selectSV 'SV1016'
